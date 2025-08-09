@@ -1,6 +1,6 @@
 
 [](https://github.com/Greeshma-05/sstonpaperscissors/blob/main/472981058-517ad8e9-ad22-457d-9538-a9e62d137cd7.png)
-# [Project Name] 🎯
+# [Stone Paper Scissors] 🎯
 
 
 ## Basic Details
